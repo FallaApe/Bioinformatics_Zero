@@ -54,4 +54,3 @@ Understanding the biology tells us how to structure our data:
 *   **Translation is a Hash Map:** Looking up 3-letter keys (`AUG`) to get values (`Methionine`).
 *   **Assembly is Pattern Matching:** We write code to find where `string_A` overlaps with `string_B`.
 ```
-
